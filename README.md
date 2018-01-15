@@ -15,3 +15,7 @@ As stated above
 This is a simple web project, deployment
 
 ## How to contribute
+
+### Copyright
+
+2018 Git. Training.

@@ -15,6 +15,7 @@ As stated above
 This is a simple web project, deployment
 
 ## How to contribute
+Please fork this repository and then issue Pull Request for review
 
 ### Copyright
 

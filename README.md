@@ -2,7 +2,7 @@
 
 This is a simple website project.
 
-Adding a line for rebasing
+Adding a line for rebasing, then more changes on myfeature
 
 ## Introduction
 

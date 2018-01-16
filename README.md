@@ -2,7 +2,9 @@
 
 This is a simple website project.
 
-Adding a line for rebasing, then more changes on myfeature
+Adding a line for rebasing, then more changes on myfeature.
+
+Updateing for emergeny fix;
 
 ## Introduction
 
